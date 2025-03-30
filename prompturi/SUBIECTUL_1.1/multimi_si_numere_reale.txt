@@ -1,0 +1,15 @@
+### Mulțimi și Numere Reale
+
+1. Câte elemente are mulțimea \( (\log_2 5, \log_2 9) \cap \mathbb{Z} \)?
+
+2. Determinați numărul elementelor mulțimii \( M = \{ n \in \mathbb{N} \mid n^2 < 7 + \sqrt{7} \} \).
+
+3. Determinați numărul elementelor mulțimii \( M = \{n \in \mathbb{N} \mid 2n + 1 < 10\} \).
+
+4. Determinați produsul elementelor mulțimii \( A = \{x \in \mathbb{N} \mid \sqrt[3]{7} < x \leq \log_2 21\} \).
+
+5. Arătați că suma pătratelor elementelor mulțimii \( M = \{ n \in \mathbb{N} \mid n - 1 < 2 \} \) este egală cu 5.
+
+6. Determinați suma elementelor mulțimii \( A = \{ x \in \mathbb{N} \mid x \leq \sqrt{5} \} \).
+
+7. Determinați numărul de elemente ale mulțimii \( A = \{ x \in \mathbb{Z} \mid -\sqrt{5} < x < \sqrt{7} \} \).

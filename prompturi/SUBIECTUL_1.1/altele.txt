@@ -1,0 +1,15 @@
+### Altele
+
+1. Arătați că numărul \( a = \left(4 + 3i\right)^2 + \left(3 - 4i\right)^2 \) este natural, unde \( i^2 = -1 \).
+
+2. Determinați \( x \in \mathbb{R} \), știind că numerele \( x - 1, x + 3, 4 - 2x \) sunt termeni consecutivi ai unei progresii aritmetice.
+
+3. Arătați că \( 2i(3-i)-6i=2 \), unde \( i^2=-1 \).
+
+4. Arătați că \( 8-6\sqrt{6}+6\left(\sqrt{6}-1\right)=2 \).
+
+5. Arătați că \( 5(1+2i)-2i(5-i)=3 \), unde \( i^2=-1 \).
+
+6. Arătați că numărul \( a = \left(1+\sqrt{2}\right) \cdot \{2022+\sqrt{2}\} \) este număr natural, unde \( \{x\} \) reprezintă partea fracționară a numărului real \( x \).
+
+7. Demonstrați că \( 10^{k^2} + \sqrt[3]{-64} + \left\lfloor \frac{123}{7} \right\rfloor = 15 \), unde \( \left\lfloor x \right\rfloor \) reprezintă partea întreagă a numărului real \( x \).

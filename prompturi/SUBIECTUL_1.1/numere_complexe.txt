@@ -1,0 +1,53 @@
+### Numere Complexe
+
+1. Se consideră numărul complex \( z = 3 + i \). Arătați că \( z(z - 2i) = 10 \).
+
+2. Arătați că \( (2 - i)^2 + i(4 + i) = 2 \), unde \( i^2 = -1 \).
+
+3. Determinați numerele reale \( a \) și \( b \) pentru care \( (a + bi)(1 + i) = 4 \), unde \( i^2 = -1 \).
+
+4. Determinați numerele reale \( a \) și \( b \), știind că \( a + ib \) este conjugatul numărului complex \( z = \frac{1 + i}{1 - i} \).
+
+5. Se consideră numerele complexe \( z_1 = 1 + 2i \) și \( z_2 = 1 - i \). Arătați că \( z_1^2 + 4z_2 = 1 \).
+
+6. Calculați modulul numărului complex \( z = (2 + 3i)(2 - 3i) - (9 - 3i) \).
+
+7. Calculați partea imaginară a numărului complex \( z = \frac{1}{2+i} \), unde \( i^2 = -1 \).
+
+8. Se consideră numărul complex \( z = 2 - 3i \). Arătați că \( z^2 - 4z + 13 = 0 \).
+
+9. Determinați numărul real \( m \) pentru care \( x_1 = 1 - i \) este soluție a ecuației \( x^2 - 2x + m = 0 \).
+
+10. Arătați că \( (1+i)^2 - 2(1+i) + 2 = 0 \), unde \( i^2 = -1 \).
+
+11. Arătați că numărul \( n = (1+6i)^2 + (3-2i)^2 \) este întreg negativ, unde \( i^2 = -1 \).
+
+12. Se consideră numărul complex \( z = 1+i \). Arătați că \( z^2 - z - i = -1 \).
+
+13. Se consideră un număr complex \( z \) care are proprietatea \( z^2 = 1-i \). Arătați că \( z^4 + 2i = 0 \).
+
+14. Determinați numărul complex \( z \), pentru care \( z - 2\overline{z} = -2 + 6i \).
+
+15. Se consideră numărul complex \( z = 3+2i \). Arătați că \( z + \frac{13}{z} = 6 \).
+
+16. Se consideră numărul complex \( z = \frac{1-i\sqrt{3}}{2} \). Calculați \( z + \frac{1}{z} \).
+
+17. Calculați modulul numărului complex \( z = \frac{7-8i}{8+7i} \).
+
+18. Dacă \( z^2 + z + 1 = 0 \), unde \( z \) este număr complex, arătați că \( z^{2023} + \frac{1}{z^{2023}} = -1 \).
+
+19. Știind că \( z \in \mathbb{C} \) și că \( z^2 + z + 2 = 0 \), demonstrați că \( z^2 + \frac{4}{z^2} = -3 \).
+
+20. Arătați că \( \alpha^{2023} = \alpha \), unde \( \alpha \) este soluție a ecuației \( z^2 + z + 1 = 0 \).
+
+21. Arătați că numărul \( z = \left(1 - i\sqrt{2}\right)\left(1 + i\sqrt{2}\right) \) este natural, unde \( i^2 = -1 \).
+
+22. Se consideră numărul complex \( z = 3 - i \). Arătați că \( z^2 - 6z + 10 = 0 \).
+
+23. Se consideră numărul complex \( z = 1 + i \). Arătați că \( 2z - z^2 = 2 \).
+
+24. Determinați partea reală a numărului complex \( z = \left(1 + i\sqrt{3}\right)^2 - \left(1 - i\sqrt{3}\right)^2 \).
+
+25. Determinați partea reală a numărului complex \( z = (3 + 2i)(3 - 2i) - (4 - i) \).
+
+26. Determinați numărul complex \( z \), pentru care \( z = 3\overline{z} \).

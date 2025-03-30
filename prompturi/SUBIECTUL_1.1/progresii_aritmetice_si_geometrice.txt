@@ -1,0 +1,13 @@
+### Progresii Aritmetice și Geometrice
+
+1. Determinați termenul \( a_6 \) al progresiei aritmetice \( (a_n)_{n \geq 1} \), cu \( a_1 = 3 \) și \( a_5 = 23 \).
+
+2. Calculați suma primilor patru termeni ai unei progresii aritmetice \( (a_n)_{n \in \mathbb{N}} \) cu rația 2, știind că \( a_3 + a_4 = 8 \).
+
+3. Arătați că numerele \( 6-3\sqrt{3} \), \( \sqrt{3} \) și \( 2+\sqrt{3} \) sunt termeni consecutivi ai unei progresii geometrice.
+
+4. Fie progresia geometrică \( (b_n)_{n \geq 1} \). Știind că \( b_2 + b_5 = 156 \) și \( b_3 + b_6 = 468 \), calculați rația progresiei.
+
+5. Determinați rația progresiei aritmetice \( (a_n)_{n \geq 1} \), știind că \( a_1 = 3 \) și \( a_8 = 38 \).
+
+6. Calculați suma primilor zece termeni ai progresiei aritmetice \( (a_n)_{n \geq 1} \), știind că \( a_2 + a_9 = 10 \).
