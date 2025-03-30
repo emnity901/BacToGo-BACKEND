@@ -6,6 +6,10 @@ from PIL import Image
 import io
 import os
 import random
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 def text_to_image(latex_text, output_path="output.png"):
     """Convert LaTeX text to an image with proper dimensions"""
@@ -105,7 +109,7 @@ def get_latex_text_from_api():
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
         headers={
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer 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",
             "Content-Type": "application/json",
         },
         data=json.dumps({
