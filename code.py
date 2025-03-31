@@ -15,10 +15,13 @@ def text_to_image(latex_text, output_path="output.png", is_problem_1_2=False):
     """Convert LaTeX text to an image with proper dimensions"""
     # Replace LaTeX inline delimiters with dollar signs for matplotlib
     formatted_text = latex_text.replace(r"\(", "$").replace(r"\)", "$")
-    if '.' in formatted_text:
-        parts = formatted_text.split('.', 1)
-        formatted_text = parts[0] + '.\n' + parts[1].lstrip()
+    # Only split if it IS problem 1.2
+    if is_problem_1_2:
+        if '.' in formatted_text:
+            parts = formatted_text.split('.', 1)
+            formatted_text = parts[0] + '.\n' + parts[1].lstrip()
     
+    # The rest of the logic remains the same, but the split above now only happens for 1.2
     if is_problem_1_2:
         # Special handling for problem 1.2 with precise height calculation
         num_lines = formatted_text.count('\n') + 1
@@ -75,7 +78,7 @@ def text_to_image(latex_text, output_path="output.png", is_problem_1_2=False):
     plt.close()
     return output_path
 
-def replace_text_with_image(input_pdf, output_pdf, placeholder_text, image_path):
+def replace_text_with_image(input_pdf, output_pdf, placeholder_text, image_path, contains_sqrt=False, contains_frac=False): # Added contains_frac parameter
     doc = fitz.open(input_pdf)
 
     for page in doc:
@@ -91,9 +94,23 @@ def replace_text_with_image(input_pdf, output_pdf, placeholder_text, image_path)
             img_width, img_height = img.size
             img.close()
 
-            # Target height: 3x the approximate height of 12pt text
+            # Determine target height multiplier based on placeholder, sqrt, and frac presence
+            if placeholder_text == "{{problema1.2}}":
+                height_multiplier = 2      # 2x for problem 1.2 (overrides others)
+            else:
+                # Start with base multiplier
+                height_multiplier = 1.0
+                if contains_sqrt:
+                    height_multiplier *= 1.2
+                if contains_frac:
+                    height_multiplier *= 1.2
+                # Cap the combined multiplier at 1.5 if both are present
+                if contains_sqrt and contains_frac:
+                     height_multiplier = min(height_multiplier, 1.5) # Cap at 1.5
+
+            # Target height calculation
             base_height = 12 * (72 / 96)  # Base height for 12pt text
-            target_height = base_height * 1  # 3x larger
+            target_height = base_height * height_multiplier
 
             # Calculate scaling factor to match target height
             scale = target_height / img_height
@@ -105,9 +122,14 @@ def replace_text_with_image(input_pdf, output_pdf, placeholder_text, image_path)
             # Position the image at the LEFT edge of the placeholder
             x_left = rect.x0  # Start from left edge
 
-            # Vertical position: Centered + OFFSET (adjust this value as needed)
-            y_offset = 0  # Move down by 5 points (increase for more spacing)
-            y_position = rect.y0 + (rect.height - img_height_scaled) / 2 + y_offset
+            # Vertical position: Top-aligned for 1.2, Centered otherwise
+            y_offset = 0  # Optional offset, can be adjusted
+            if placeholder_text == "{{problema1.2}}":
+                # Align top of image with top of placeholder + offset
+                y_position = rect.y0 + y_offset
+            else:
+                # Center vertically + offset for other problems
+                y_position = rect.y0 + (rect.height - img_height_scaled) / 2 + y_offset
 
             new_rect = fitz.Rect(
                 x_left,                     # Left-aligned X
@@ -138,7 +160,7 @@ def get_latex_text_from_api(subiect="1.1"):
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
         headers={
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer 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",
             "Content-Type": "application/json",
         },
         data=json.dumps({
@@ -183,21 +205,27 @@ if __name__ == "__main__":
         input_pdf="template.pdf",
         output_pdf=temp_pdf_1,
         placeholder_text="{{problema1.1}}",
-        image_path=image_path_1
+        image_path=image_path_1,
+        contains_sqrt=r'\sqrt' in latex_text_1, # Pass sqrt check result
+        contains_frac=r'\frac' in latex_text_1  # Pass frac check result
     )
     
     replace_text_with_image(
         input_pdf=temp_pdf_1,
         output_pdf=temp_pdf_2,
         placeholder_text="{{problema1.2}}",
-        image_path=image_path_2
+        image_path=image_path_2,
+        contains_sqrt=r'\sqrt' in latex_text_2, # Pass sqrt check result (though 1.2 scaling takes precedence)
+        contains_frac=r'\frac' in latex_text_2  # Pass frac check result (though 1.2 scaling takes precedence)
     )
     
     replace_text_with_image(
         input_pdf=temp_pdf_2,
         output_pdf="modified_template.pdf",
         placeholder_text="{{problema1.3}}",
-        image_path=image_path_3
+        image_path=image_path_3,
+        contains_sqrt=r'\sqrt' in latex_text_3, # Pass sqrt check result
+        contains_frac=r'\frac' in latex_text_3  # Pass frac check result
     )
     
     # Optional: Clean up the temporary files
