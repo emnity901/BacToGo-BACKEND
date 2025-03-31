@@ -1,0 +1,5 @@
+1. Determinaţi numerele reale \( b \) şi \( c \) dacă graficul funcţiei \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + bx + c \), conţine punctul \( A(0, 1) \) şi admite ca axă de simetrie dreapta de ecuaţie \( x = 1 \).
+
+2. Determinaţi numărul real \( m \), ştiind că dreapta de ecuaţie \( x = 2 \) este axă de simetrie pentru graficul funcţiei \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 - mx + 4 \).
+
+3. Ştiind că dreapta \( x=1 \) este axă de simetrie a graficului funcţiei \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + 2bx + 3c \) şi că punctul \( A(1,2) \) aparţine graficului, determinaţi numerele reale \( b \) şi \( c \).

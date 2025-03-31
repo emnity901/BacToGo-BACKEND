@@ -1,0 +1,7 @@
+1. Se consideră o funcţie \( f : \mathbb{R} \rightarrow \mathbb{R} \). Demonstraţi că funcţia \( g : \mathbb{R} \rightarrow \mathbb{R}, \, g(x) = f(x) - f(-x) \) este impară.
+
+2. Se consideră o funcţie impară \( f : \mathbb{R} \rightarrow \mathbb{R} \). Demonstraţi că funcţia \( g : \mathbb{R} \rightarrow \mathbb{R}, \, g(x) = (f(x))^2 \) este pară.
+
+3. Se consideră funcţiile \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + x + 1 \) şi \( g : \mathbb{R} \rightarrow \mathbb{R}, \, g(x) = 2x + 2 \). Demonstraţi că \( f(x + 1) - f(x) = g(x) \), pentru orice număr real \( x \).
+
+4. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = 5x + 1 \). Arătaţi că \( f(2x) - 2f(x) = -1 \), pentru orice număr real \( x \).

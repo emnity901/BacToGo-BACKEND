@@ -1,0 +1,3 @@
+1. Fie funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = 2x - 1 \). Demonstraţi că numărul \( f(1) + f(2) + f(3) + \dots + f(30) \) este pătrat perfect.
+
+2. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + m \), unde \( m \) este număr real pozitiv. Determinaţi numărul real pozitiv \( m \) pentru care numerele \( f(0) \), \( f(1) \) şi \( f(2) \) sunt, în această ordine, termeni consecutivi ai unei progresii geometrice.

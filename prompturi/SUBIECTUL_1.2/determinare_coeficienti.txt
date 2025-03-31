@@ -1,0 +1,11 @@
+1. Determinaţi numerele reale \( m \) şi \( n \), ştiind că \( f(1) = 2 \) şi \( f(2) = 1 \), unde \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = mx + n \).
+
+2. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x + a \), unde \( a \) este număr real. Determinaţi numărul real \( a \), ştiind că \( (f \circ f)(1) + f(1) = 1 \).
+
+3. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x + m \), unde \( m \) este număr real. Determinaţi numărul real \( m \), ştiind că punctul \( A(f(1), 1) \) aparţine graficului funcţiei \( f \).
+
+4. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = 3x + a \), unde \( a \) este număr real. Determinaţi numărul real \( a \), ştiind că \( f(x) + f(1-x) = 7 \), pentru orice număr real \( x \).
+
+5. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + ax - 5 \), unde \( a \) este număr real. Determinaţi numărul real \( a \), ştiind că punctul \( M(1,2) \) aparţine graficului funcţiei \( f \).
+
+6. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = 4x + a \), unde \( a \) este număr real. Determinaţi numărul real \( a \) pentru care \( f(3) + f(-3) = 14 \).

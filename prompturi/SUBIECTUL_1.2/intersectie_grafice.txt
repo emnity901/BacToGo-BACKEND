@@ -1,0 +1,9 @@
+1. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 - 2x \). Determinaţi abscisele punctelor de intersecţie a graficului funcţiei \( f \) cu dreapta de ecuaţie \( y = 2x - 3 \).
+
+2. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + 4x \). Determinaţi abscisele punctelor de intersecţie a graficului funcţiei \( f \) cu dreapta \( d \) de ecuaţie \( y = 5x + 2 \).
+
+3. Se consideră funcţiile \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = 3x + 2 \) şi \( g : \mathbb{R} \rightarrow \mathbb{R}, \, g(x) = 2x - 3 \). Calculaţi \( (f \circ g)(2) \).
+
+4. Se consideră funcţiile \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x - 2 \) şi \( g : \mathbb{R} \rightarrow \mathbb{R}, \, g(x) = 5x + 20 \). Calculaţi \( (g \circ f)(2) \).
+
+5. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = -3x + 18 \). Determinaţi abscisa punctului de intersecţie a graficului funcţiei \( f \circ f \) cu axa \( Ox \).

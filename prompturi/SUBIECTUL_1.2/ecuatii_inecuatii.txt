@@ -1,0 +1,7 @@
+1. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = -x^2 - 4x + 5 \). Determinaţi produsul absciselor punctelor de intersecţie a graficului funcţiei \( f \) cu axa \( Ox \).
+
+2. Determinaţi cel mai mare număr întreg \( m \) pentru care soluţiile ecuaţiei \( x^2 - 11x + m = 0 \) sunt numere reale.
+
+3. Determinaţi cel mai mic număr natural \( n \) pentru care ecuaţia \( x^2 - 3x + 3 - n = 0 \) are două soluţii distincte în mulţimea numerelor reale.
+
+4. Rezolvaţi în \( \mathbb{Z} \) inecuaţia \( f(x) \geq f(1-2x) \), dacă \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + 1 \).

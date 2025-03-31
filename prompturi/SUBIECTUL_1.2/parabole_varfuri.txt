@@ -1,0 +1,7 @@
+1. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 - 10x + m \), unde \( m \) este număr real. Determinaţi numărul real \( m \) pentru care vârful parabolei asociate funcţiei \( f \) este situat pe axa \( Ox \).
+
+2. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 - mx + 5 \), unde \( m \) este număr real. Determinaţi numărul real \( m \), ştiind că vârfului parabolei asociate funcţiei \( f \) are abscisa egală cu 3.
+
+3. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 + mx + 1 \), unde \( m \) este număr real. Determinaţi numerele reale \( m \), ştiind că axa \( Ox \) este tangentă la graficul funcţiei \( f \).
+
+4. Se consideră funcţia \( f : \mathbb{R} \rightarrow \mathbb{R}, \, f(x) = x^2 - 6x + m \), unde \( m \) este număr real. Determinaţi valorile reale ale lui \( m \) pentru care vârful parabolei asociate funcţiei \( f \) are ordonata strict mai mare decât 0.

@@ -1,0 +1,29 @@
+1. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt[3]{x^3 - 2x + 2} = x \).
+
+2. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt[3]{1 + 7x} = 1 + x \).
+
+3. Rezolvați în mulțimea numerelor reale ecuația \( 2x + \sqrt{16 + x^2} = 11 \).
+
+4. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt[3]{x + 1} = x + 1 \).
+
+5. Rezolvați în mulțimea numerelor reale ecuația \( 2x + 1 + 2\sqrt{2x + 1} = 15 \).
+
+6. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{x + 3} = x - 3 \).
+
+7. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{x^2 - 5} = \sqrt{3x - 1} \).
+
+8. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{x + 2} = x \).
+
+9. Rezolvați în mulțimea numerelor reale ecuația \( x + \sqrt{x - 5} = 7 \).
+
+10. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{x} + 2 = \sqrt{8 - x} \).
+
+11. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{x-1} = \sqrt{x^2 - 2x - 1} \).
+
+12. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt{(x-1)(x+2)} = (x+2)\sqrt{x-1} \).
+
+13. Rezolvați în mulțimea numerelor reale ecuația \( \frac{x^2 - 1}{\sqrt{x-1}} = \sqrt{x+1} \).
+
+14. Rezolvați în mulțimea numerelor reale ecuația \( \sqrt[3]{1+x} + \sqrt[3]{1-x} = 2 \).
+
+15. Rezolvați în mulțimea numerelor reale ecuația \( 3\sqrt{x - 2} = 2 - x \).
