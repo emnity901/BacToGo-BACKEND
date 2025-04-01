@@ -1,0 +1,7 @@
+Probleme de paralelogram, trapez și linie mijlocie
+
+1. Se consideră paralelogramul ABCD și punctele M și N astfel încât →AM = (1/4)→AC și →AN = (1/3)→AB. Demonstrați că punctele D, M și N sunt coliniare.
+2. În reperul cartezian xOy se consideră trapezul ABCD, cu AB ∥ CD, A(1, 2), B(4, 5) și D(-3, 2). Determinați ecuația dreptei MN, știind că segmentul MN este linia mijlocie a trapezului ABCD.
+3. În triunghiul ABC, punctul M este mijlocul laturii AC, iar punctele D și E aparțin segmentului AB, astfel încât AD = BE. Arătați că →MD + →ME = →CB.
+4. În reperul cartezian xOy se consideră trapezul ABCD cu AB ∥ CD și A(1,2), B(4,5) și D(-3,2). Determinați ecuația dreptei MN, știind că segmentul MN este linia mijlocie a trapezului ABCD.
+5. În reperul cartezian xOy se consideră punctele A(3,4), B(-4,3) și C, astfel încât AOBC este paralelogram. Arătați că triunghiul ACB este dreptunghic isoscel.

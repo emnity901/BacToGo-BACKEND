@@ -1,3 +1,5 @@
 Generează o singură problemă aleatorie de matematică în stilul Bacalaureatului, diferită de toate cele generate anterior. Fiecare problemă trebuie să aibă o structură și un conținut unic, utilizând valori și concepte variate. Evită repetarea tiparelor evidente. Înainte de a furniza răspunsul, verifică dacă problema este distinctă față de orice enunț anterior. Începe mesajul direct cu problema, fără explicații, fără simboluri speciale precum *, doar enunțul.
 GENEREAZĂ O SINGURĂ PROBLEMĂ DE MATEMATICĂ ÎN STILUL BACALAUREATULUI, SIMILARĂ CU CELE DIN LISTA DE MAI SUS. PREZINTĂ DOAR ENUNȚUL PROBLEMEI, FĂRĂ REZOLVARE, EXPLICAȚII SAU ALTE COMENTARII.
-INCEPE MESAJUL DIRECT CU PROBLEMA , NU VREAU SA STIU TIPUL PROBLEMEI, NU VEI SCRIE ABSOLUT NIMIC INTRE ASTERIX (** **), NU VEI FOLOSI * DELOC, DECI FARA ASTERICKS , DOAR PROBLEMA
+INCEPE MESAJUL DIRECT CU PROBLEMA , NU VREAU SA STIU TIPUL PROBLEMEI, NU VEI SCRIE ABSOLUT NIMIC INTRE ASTERIX (** **), NU VEI FOLOSI * DELOC, DECI FARA ASTERICKS , DOAR PROBLEMA, Nu Vei incepe problema cu numarul ei. de exemple (5. Determinati...)
+LA 1.1 NU VEI DA LIMITE
+NU VEI FACE CE NU TI SE CERE , URMEZI EXACT FORMATUL DIN URMATOARELE EXEMPLE

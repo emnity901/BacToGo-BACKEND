@@ -1,0 +1,12 @@
+Probleme diverse de geometrie
+
+1. Se consideră triunghiul ABC cu AB = AC = 6√3 și m(∠A) = 120°. Calculați lungimea vectorului →AC - →AB.
+2. În reperul cartezian xOy se consideră punctele A(1,3), B(5,-7) și C(-1,-5). Determinați ecuația liniei mijlocii în triunghiul ABC, care este paralelă cu latura BC.
+3. În reperul cartezian xOy se consideră punctele A(0,5), B(3,3) și C(7,3). Determinați coordonatele punctului D, știind că ABCD este paralelogram.
+4. În reperul cartezian xOy se consideră punctele A(0,1), B(2,5) și C(6,1). Determinați coordonatele punctului D, știind că →AB + →AC = →AD.
+5. În reperul cartezian xOy se consideră punctele A(5,1), B(-1,3) și C(8,10). Determinați ecuația dreptei paralele cu dreapta AC și care trece prin mijlocul segmentului CD, unde punctul D este mijlocul segmentului AB.
+6. În reperul cartezian xOy se consideră punctele A(6,4) și B(-2,6). Determinați numerele reale a și b, știind că, dacă C(a,b), atunci AC = CB.
+7. În reperul cartezian xOy se consideră punctele A(4,1) și B(-1,2). Determinați coordonatele punctului de intersecție a paralelei prin A la OB cu paralela prin B la OA.
+8. În reperul cartezian xOy se consideră punctele A(2,1), B(3,2) și C(4,5). Determinați coordonatele punctului D, știind că →AB + →AC + →AD = 𝟎.
+9. Se consideră paralelogramul ABCD cu AD = 6, AB = 4 și m(∠ADC) = 120°. Determinați modulul vectorului v = →AB + →AD.
+10. Se consideră punctul G, centrul de greutate al triunghiului ABC și punctul M, mijlocul segmentului AG. Demonstrați că 6→AM = →AB + →AC.

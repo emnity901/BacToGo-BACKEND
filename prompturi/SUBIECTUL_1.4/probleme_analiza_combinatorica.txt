@@ -1,0 +1,7 @@
+Probleme de analiză combinatorică
+
+1. Câte numere de trei cifre distincte se pot forma cu cifrele 0,1,2,3,4 și 5?
+2. Determinați numărul funcțiilor f : {1,2,3} → {1,2,3,4} pentru care f(1) este număr prim.
+3. Calculați probabilitatea ca, alegând o funcție din mulțimea funcțiilor f : {0,1,2} → {0,1,2,3}, aceasta să fie strict monotonă.
+4. Determinați numărul numerelor naturale de trei cifre distincte care se pot forma cu elementele mulțimii A = {0,5,7}.
+5. Determinați numărul numerelor naturale de trei cifre care au proprietatea că pătratul cifrei zecilor este egal cu diferența dintre cifra unităților și cifra sutelor.

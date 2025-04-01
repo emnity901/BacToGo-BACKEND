@@ -1,0 +1,22 @@
+Probleme de geometrie analitică (drepte, puncte, vectori)
+
+1. Fie dreptele d₁ și d₂ de ecuații x - 3y + 1 = 0 și respectiv 3x + y + 2 = 0, a un număr real și punctul P(0, a). Determinați valorile lui a, știind că punctul P este egal depărtat de dreptele d₁ și d₂.
+2. În reperul cartezian xOy se consideră punctele A(3,1) și B(4,4). Determinați coordonatele punctului C, știind că →OA = →BC.
+3. În reperul cartezian xOy se consideră punctele A(4,0) și B(5,4). Determinați ecuația dreptei d care trece prin punctul O și este paralelă cu dreapta AB.
+4. În reperul cartezian xOy se consideră punctele A(0,4), B(3,-2) și C(2a, a), unde a este număr real nenul. Arătați că dreptele AB și OC sunt perpendiculare, pentru orice număr real nenul a.
+5. În reperul cartezian xOy se consideră punctele A(5,3) și B(-1,5). Determinați coordonatele punctului C, știind că →CA + →CB = 2→OC.
+6. În reperul cartezian xOy se consideră punctele A(1,1) și B(4,1). Determinați coordonatele punctului M, știind că →AM = (1/3)→AB.
+7. În reperul cartezian xOy se consideră punctele A(-4,0) și B(2,2). Scrieți ecuația mediatoarei segmentului AB.
+8. În reperul cartezian xOy se consideră punctele A(3,4), B(-4,3) și C(5,0). Arătați că punctul H(4,7) este ortocentrul triunghiului ABC.
+9. În reperul cartezian xOy se consideră punctele A(-1,2) și B(3,-1). Știind că punctul M este simetricul lui A față de B și punctul N este simetricul lui B față de M, determinați coordonatele punctului N.
+10. În reperul cartezian xOy se consideră punctele A(4,6), B(-3,-1) și C(-2,-2). Arătați că punctul M(1,2) este centrul cercului circumscris triunghiului ABC.
+11. În reperul cartezian xOy se consideră punctul M(-4,4). Determinați ecuația dreptei d care trece prin punctul M și este perpendiculară pe dreapta OM.
+12. În reperul cartezian xOy se consideră punctele M(1,0), N(7,0) și A(a,3), unde a este număr real. Știind că AM = AN, arătați că segmentul AO are lungimea egală cu 5.
+13. În reperul cartezian xOy se consideră punctele M(3,4), N(0,1) și P(3,0). Determinați ecuația dreptei d care trece prin punctul P și este paralelă cu dreapta MN.
+14. În reperul cartezian xOy se consideră punctul A(1,2) și dreapta d: 2x - 3y + 1 = 0. Determinați ecuația dreptei care trece prin A și este perpendiculară pe d.
+15. În reperul cartezian xOy se consideră dreapta d de ecuație y = 3x - 2 și punctul A(a, a), unde a este număr real. Determinați numărul real a, știind că punctul A aparține d.
+16. În sistemul cartezian xOy se consideră punctele A(3,2) și B(1,-1). Determinați coordonatele punctului C pentru care AC = 2BC.
+17. În reperul cartezian xOy se consideră punctele A(2,0), B(1,6) și C(4,2). Determinați coordonatele punctului D, știind că AB = DC.
+18. În reperul cartezian xOy se consideră punctele A(-2,-2), B(3,1) și M(2,4). Determinați coordonatele punctului N, știind că patrulaterul ABMN este paralelogram.
+19. În reperul cartezian xOy se consideră punctele A(4,-2), B(-2,1) și M(2,3). Determinați ecuația perpendicularei duse prin M pe dreapta AB.
+20. În reperul cartezian xOy se consideră punctele A(2,1), B(6,4) și C(8,9). Arătați că AC = 2AB.

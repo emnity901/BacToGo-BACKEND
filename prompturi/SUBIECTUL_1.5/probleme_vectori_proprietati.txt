@@ -1,0 +1,14 @@
+Probleme de vectori și proprietăți geometrice
+
+1. Se consideră vectorii (a+1)i – j și –a i + j, unde a este un număr real. Arătați că unghiul format de cei doi vectori este obtuz oricare ar fi a ∈ ℝ.
+2. În triunghiul ABC, punctele M, N și P sunt mijloacele laturilor BC, AC, respectiv AB. Arătați că →AM + →BN + →CP = 𝟎.
+3. Se consideră triunghiul ABC, punctul M mijlocul laturii BC și punctul N mijlocul segmentului AM. Demonstrați că 2→AN + →BN + →CN = 𝟎.
+4. Se consideră triunghiul ABC și punctele M, N și P astfel încât →AM = 2→AB, →BN = 2→BC și →CP = 2→CA. Știind că O este un punct oarecare din plan, arătați că →OM + →ON + →OP = →OA + →OB + →OC.
+5. Se consideră paralelogramul ABCD și punctul O, intersecția diagonalelor acestuia. Arătați că →OB + →OC = →AB.
+6. Se consideră punctele A, B, C și D, astfel încât →AB + →CD = 𝟎. Demonstrați că →AD + →CB = 𝟎.
+7. Se consideră triunghiul ABC și punctele M, N și P mijloacele segmentelor BC, BM, respectiv CM. Arătați că →AM + →AN + →AP = (3/2)(→AB + →AC).
+8. Se consideră punctele A, B, C și D, astfel încât 2→AD = →BD + →AC. Demonstrați că →AB = →DC.
+9. Se consideră triunghiul ABC, M mijlocul laturii BC și punctul T mijlocul segmentului AM. Să se arate că →BT = (1/4)→AC – (3/4)→AB.
+10. Se consideră a un număr real nenul, triunghiul ABC și punctele M, N și P astfel încât →AB = a→AM, →BC = a→BN și →CA = a→CP. Arătați că →AN + →BP + →CM = 𝟎.
+11. Se consideră triunghiul ABC, punctul D mijlocul laturii AC și punctul M astfel încât →MA + 2→MB + 3→MC = 𝟎. Arătați că dreptele MD și AB sunt paralele.
+12. Se consideră punctele A, B și C astfel încât →AB = 4i – 3j și →BC = 2i – 5j. Determinați lungimea vectorului →AC.

@@ -1,0 +1,6 @@
+Probleme de binomul lui Newton
+
+1. Determinați termenul care nu îl conține pe x din dezvoltarea (x³ + 1/√x)¹⁴, unde x ∈ (0,∞).
+2. Determinați termenul care nu îl conține pe x din dezvoltarea (√[4]{x} + √{1/x})²⁰, unde x ∈ (0,∞).
+3. Determinați termenul care nu îl conține pe x din dezvoltarea (√x + 1/x)⁹, unde x ∈ (0,+∞).
+4. Determinați termenul care îl conține pe x¹⁰ din dezvoltarea (x³ + 1/∛x)²⁰, unde x ∈ ℝ*.

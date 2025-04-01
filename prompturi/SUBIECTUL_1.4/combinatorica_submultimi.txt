@@ -1,0 +1,12 @@
+Probleme de combinatorică și submulțimi
+
+1. Se consideră mulțimea A = {1,2,3,4,5}. Determinați numărul submulțimilor nevide ale mulțimii A, care au cel mult două elemente.
+2. Se consideră mulțimile A = {1,2,3,4} și F = {f | f : A → A}. Determinați probabilitatea ca, alegând un element f din mulțimea F, acesta să verifice inegalitatea f(n) ≤ n, pentru orice n ∈ A.
+3. Determinați numărul de submulțimi cu cel puțin două elemente ale mulțimii A = {0; 1; ..., 4}.
+4. Se consideră mulțimea A = {1,2,3,4,5}. Determinați numărul submulțimilor cu trei elemente ale lui A, care îl conțin pe 1.
+5. Determinați numărul natural nenul n, știind că mulțimea A = {1,2,3,…,n} are exact 10 submulțimi cu două elemente.
+6. Determinați numărul de elemente ale unei mulțimi, știind că aceasta are exact 45 de submulțimi cu două elemente.
+7. Se consideră mulțimea A = {1,2,3,4,5,6,7,8,9,10}. Determinați numărul de submulțimi cu 3 elemente ale lui A, care conțin exact 2 numere impare.
+8. Se consideră mulțimea M = {1,2,3,4,5}. Determinați numărul de submulțimi ale lui M care au cel puțin trei elemente.
+9. Arătați că nu există nicio mulțime finită care să aibă exact 12 submulțimi cu 2 elemente.
+10. Determinați n ∈ ℕ* știind că numărul submulțimilor nevide cu un număr par de elemente ale unei mulțimi cu n elemente este 511.

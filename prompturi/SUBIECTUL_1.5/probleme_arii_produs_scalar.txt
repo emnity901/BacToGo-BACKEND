@@ -1,0 +1,5 @@
+Probleme de arii și produs scalar
+
+1. În reperul cartezian xOy se consideră punctele A(2,-2), B(-4,4) și C(-4,0). Calculați aria triunghiului ABC.
+2. În reperul cartezian xOy se consideră punctele A(-1,2), B(4,2) și C(3,0). Calculați aria triunghiului ABC.
+3. Triunghiul ABC este dreptunghic în A și are cateta AB de lungime 5. Calculați produsul scalar →AB · →BC.

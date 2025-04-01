@@ -1,0 +1,29 @@
+Probleme de probabilitate
+
+1. Se consideră mulțimea A, a numerelor naturale de două cifre. Calculați probabilitatea ca, alegând un număr n din mulțimea A, numărul n + 5 să fie multiplu de 10.
+2. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să aibă cifrele mai mari sau egale cu 7.
+3. Calculați probabilitatea ca, alegând la întâmplare una dintre submulțimile cu trei elemente ale mulțimii A = {1,2,3,4,5}, elementele submulțimii alese să fie termeni consecutivi ai unei progresii aritmetice.
+4. Se consideră mulțimea A, a numerelor naturale de cel mult două cifre. Determinați probabilitatea ca, alegând un număr din mulțimea A, acesta să fie divizibil cu 9.
+5. Calculați probabilitatea ca, alegând un element din mulțimea {0,1,2,…,9}, acesta să fie soluție a ecuației f(n) = 0, unde f : ℝ → ℝ, f(n) = n³ + 3n - 4.
+6. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să nu conțină cifra 2.
+7. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să fie pătrat perfect.
+8. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să aibă cifra zecilor divizor al numărului 6.
+9. Calculați probabilitatea ca, alegând un element din mulțimea numerelor naturale de două cifre, acesta să aibă cifrele mai mici sau egale cu 3.
+10. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să aibă cifrele impare și distincte.
+11. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre distincte, acesta să aibă cifra zecilor multiplu de 3.
+12. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să fie impar.
+13. Calculați probabilitatea ca, alegând un număr din intervalul [23, 72], acesta să fie divizibil cu 5.
+14. Calculați probabilitatea ca, alegând un număr natural de două cifre, produsul cifrelor acestuia să fie un număr divizibil cu 10.
+15. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să fie divizibil cu 2 și cu 5.
+16. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de trei cifre, acesta să aibă cifra unităților egală cu suma dintre cifra sutelor și cifra zecilor.
+17. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să fie divizibil cu 2 sau cu 3.
+18. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de trei cifre, acesta să aibă suma cifrelor divizibilă cu 9.
+19. Calculați probabilitatea ca, alegând un număr din mulțimea A = {0,1,2,...,20}, pătratul acestui număr să aparțină mulțimii A.
+20. Se consideră A, o mulțime cu 4 elemente. Calculați probabilitatea ca, alegând o mulțime din mulțimea submulțimilor lui A, aceasta să aibă un număr impar de elemente.
+21. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, acesta să aibă produsul cifrelor egal cu 16.
+22. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de trei cifre, acesta să fie multiplu de 25.
+23. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de trei cifre, acesta să aibă cifra sutelor un număr prim.
+24. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de trei cifre, acesta să aibă produsul cifrelor un număr impar.
+25. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, produsul cifrelor sale să fie un număr prim.
+26. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, suma cifrelor sale să fie divizibilă cu 11.
+27. Calculați probabilitatea ca, alegând un număr din mulțimea numerelor naturale de două cifre, produsul cifrelor sale să fie mai mare decât 51.
